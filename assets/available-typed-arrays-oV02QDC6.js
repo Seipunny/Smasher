@@ -1,0 +1,1 @@
+import{c as i}from"./@orbs-network-BSW4sW2t.js";import{r as n}from"./possible-typed-array-names-BKRybAhF.js";var o,l;function p(){if(l)return o;l=1;var a=n(),s=typeof globalThis>"u"?i:globalThis;return o=function(){for(var e=[],r=0;r<a.length;r++)typeof s[a[r]]=="function"&&(e[e.length]=a[r]);return e},o}export{p as r};
